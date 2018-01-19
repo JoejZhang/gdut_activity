@@ -22,7 +22,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:orientation="vertical"
-        android:background="#e6e3e3">
+        android:background="#e2dfdf">
         <ImageView
             android:layout_width="80dp"
             android:layout_height="80dp"
