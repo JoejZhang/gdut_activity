@@ -101,6 +101,7 @@ public class MainActivity extends BaseActivity implements PushMessageReceiver.IO
             public void onPageSelected(int position) {
                 //设置topbar标题及按钮的图片
                 if (position == 0) {
+
                     mTopBar.setTitle("主页");
                     mTopBar.setButtonBackground(0,R.drawable.search_activity_main);
                 } else if (position == 1) {
